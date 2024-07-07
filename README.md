@@ -33,3 +33,19 @@
 
 ## Issue Regarding Questions: 
 - Questions are given without any specified `constrains`, so i have assumed some standard case `constrains`.
+
+
+## Extra: Solutions in CPP
+
+1. [Palindrome](/cpp_solutions/code_01.cpp)
+2. [first Occurrence](/cpp_solutions/code_02.cpp)
+3. [shortest word in the string](/cpp_solutions/code_03.cpp)
+4. [prime or not](/cpp_solutions/code_04.cpp)
+5. [median of an array](/cpp_solutions/code_05.cpp)
+6. [longest common prefix](/cpp_solutions/code_06.cpp)
+7. [kth smallest element](/cpp_solutions/code_07.cpp)
+8. [max depth of binary tree](/cpp_solutions/code_08.cpp)
+9. [reverse a string](/cpp_solutions/code_09.cpp)
+10. [prime condition](/cpp_solutions/code_10.cpp)
+11. [merge two sorted array](/cpp_solutions/code_11.cpp)
+12. [maximum sub-array sum](/cpp_solutions/code_12.cpp)
